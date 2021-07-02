@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">voice_task</string>
+    <string name="action_search">action search</string>
+
+    <string name="song_btn">tell me the song title</string>
+    <string name="app_btn">tell me the app name</string>
+
+    <string name="song_temp">Song title: %1$s</string>
+    <string name="app_temp">App name: %1$s</string>
+
+    <string name="error_song_temp">Error while getting song name</string>
+    <string name="error_app_temp">Error while getting app name</string>
+
+</resources>
